@@ -12,7 +12,7 @@ on:
   workflow_dispatch: # Allows manual triggering of the workflow from GitHub UI
 
 env:
-  FLUTTER_VERSION: '3.22.0' # Using a recent stable Flutter version
+  FLUTTER_VERSION: '3.32.2' # Using a recent stable Flutter version
   JAVA_VERSION: '17'       # Recommended Java version for Android builds
   # Securely store your signing credentials as GitHub Secrets.
   # DO NOT hardcode these values directly in this file.
